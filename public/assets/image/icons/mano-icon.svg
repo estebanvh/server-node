@@ -1,0 +1,20 @@
+<svg id="mano-icon" xmlns="http://www.w3.org/2000/svg" width="27.371" height="28.838" viewBox="0 0 27.371 28.838">
+  <g id="Grupo_6446" data-name="Grupo 6446" transform="translate(330.627 -409.849) rotate(66)">
+    <g id="Elipse_295" data-name="Elipse 295" transform="translate(254.73 456.638)" fill="#fff" stroke="#6a58db" stroke-width="1">
+      <circle cx="7.657" cy="7.657" r="7.657" stroke="none"/>
+      <circle cx="7.657" cy="7.657" r="7.157" fill="none"/>
+    </g>
+    <g id="Rectángulo_1299" data-name="Rectángulo 1299" transform="translate(252.294 458.312) rotate(21)" fill="#e9e5ff" stroke="#6a58db" stroke-width="1">
+      <rect width="13.017" height="5.36" rx="2.68" stroke="none"/>
+      <rect x="0.5" y="0.5" width="12.017" height="4.36" rx="2.18" fill="none"/>
+    </g>
+    <g id="Rectángulo_1300" data-name="Rectángulo 1300" transform="translate(252.293 462.906) rotate(21)" fill="#e9e5ff" stroke="#6a58db" stroke-width="1">
+      <rect width="11.485" height="5.36" rx="2.68" stroke="none"/>
+      <rect x="0.5" y="0.5" width="10.485" height="4.36" rx="2.18" fill="none"/>
+    </g>
+    <g id="Rectángulo_1301" data-name="Rectángulo 1301" transform="translate(249.231 452.186) rotate(21)" fill="#e9e5ff" stroke="#6a58db" stroke-width="1">
+      <rect width="15.314" height="5.36" rx="2.68" stroke="none"/>
+      <rect x="0.5" y="0.5" width="14.314" height="4.36" rx="2.18" fill="none"/>
+    </g>
+  </g>
+</svg>
