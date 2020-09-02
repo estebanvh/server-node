@@ -1,0 +1,73 @@
+<svg id="nippy-apuntando-abajo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="169.315" height="238.75" viewBox="0 0 169.315 238.75">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="169.315" height="238.75" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect x="18" width="169.315" height="238.75" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect width="187.315" height="238.75" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Repetir_cuadrícula_3" data-name="Repetir cuadrícula 3" clip-path="url(#clip-path)">
+    <g transform="translate(-205.939 -50.336)">
+      <g id="Grupo_de_desplazamiento_1" data-name="Grupo de desplazamiento 1" transform="translate(187.939 50.336)" clip-path="url(#clip-path-2)" style="isolation: isolate">
+        <g id="Repetir_cuadrícula_2" data-name="Repetir cuadrícula 2" clip-path="url(#clip-path-3)">
+          <g transform="translate(-187.939 -50.336)">
+            <g id="Grupo_6471" data-name="Grupo 6471" transform="translate(66.42 531.644) rotate(-97)">
+              <g id="Grupo_6434" data-name="Grupo 6434" transform="translate(54.408 -286.022)">
+                <ellipse id="Elipse_291" data-name="Elipse 291" cx="100.392" cy="98.398" rx="100.392" ry="98.398" transform="translate(179.071 501.816)" fill="#e9e5ff"/>
+                <g id="Grupo_6430" data-name="Grupo 6430" transform="translate(285.755 598.864) rotate(177)">
+                  <g id="Grupo_6429" data-name="Grupo 6429" transform="translate(0 0)">
+                    <path id="Trazado_282" data-name="Trazado 282" d="M5.371,0A5.468,5.468,0,0,1,10.86,5.35a5.506,5.506,0,0,1-5.545,5.567A5.406,5.406,0,0,1,0,5.418,5.342,5.342,0,0,1,5.371,0Z" transform="translate(36.471 9.275)" fill="#646464"/>
+                    <path id="Trazado_283" data-name="Trazado 283" d="M5.587,10.842A5.435,5.435,0,0,1,0,5.612a5.461,5.461,0,1,1,10.919-.226A5.36,5.36,0,0,1,5.587,10.842Z" transform="translate(0.012 32.395)" fill="#646464"/>
+                  </g>
+                </g>
+                <path id="Trazado_284" data-name="Trazado 284" d="M0,0S14.606,7.916,12.686,19.591s10.658,26.492,19.1,28.373" transform="translate(246.595 472.45) rotate(-5)" fill="none" stroke="#6a58db" stroke-width="3"/>
+                <path id="Trazado_285" data-name="Trazado 285" d="M0,0S14.606,7.916,12.686,19.591s10.658,26.492,19.1,28.373" transform="translate(170.61 548.228) rotate(16)" fill="none" stroke="#6a58db" stroke-width="3"/>
+                <g id="Grupo_6432" data-name="Grupo 6432" transform="matrix(0.998, 0.07, -0.07, 0.998, 232.875, 461.776)">
+                  <g id="Elipse_295" data-name="Elipse 295" transform="translate(6.443 3.865)" fill="#fff" stroke="#6a58db" stroke-width="1">
+                    <ellipse cx="5.651" cy="6.648" rx="5.651" ry="6.648" stroke="none"/>
+                    <ellipse cx="5.651" cy="6.648" rx="5.151" ry="6.148" fill="none"/>
+                  </g>
+                  <g id="Rectángulo_1299" data-name="Rectángulo 1299" transform="translate(4.328 5.319) rotate(21)" fill="#e9e5ff" stroke="#6a58db" stroke-width="1">
+                    <rect width="11.302" height="4.654" rx="2.327" stroke="none"/>
+                    <rect x="0.5" y="0.5" width="10.302" height="3.654" rx="1.827" fill="none"/>
+                  </g>
+                  <g id="Rectángulo_1300" data-name="Rectángulo 1300" transform="translate(4.327 9.308) rotate(21)" fill="#e9e5ff" stroke="#6a58db" stroke-width="1">
+                    <rect width="9.973" height="4.654" rx="2.327" stroke="none"/>
+                    <rect x="0.5" y="0.5" width="8.973" height="3.654" rx="1.827" fill="none"/>
+                  </g>
+                  <g id="Rectángulo_1301" data-name="Rectángulo 1301" transform="translate(1.668) rotate(21)" fill="#e9e5ff" stroke="#6a58db" stroke-width="1">
+                    <rect width="13.297" height="4.654" rx="2.327" stroke="none"/>
+                    <rect x="0.5" y="0.5" width="12.297" height="3.654" rx="1.827" fill="none"/>
+                  </g>
+                </g>
+                <g id="Grupo_6433" data-name="Grupo 6433" transform="matrix(0.07, 0.998, -0.998, 0.07, 175.512, 533.679)">
+                  <g id="Elipse_295-2" data-name="Elipse 295" transform="translate(6.443 0.064)" fill="#fff" stroke="#6a58db" stroke-width="1">
+                    <ellipse cx="5.651" cy="6.648" rx="5.651" ry="6.648" stroke="none"/>
+                    <ellipse cx="5.651" cy="6.648" rx="5.151" ry="6.148" fill="none"/>
+                  </g>
+                  <g id="Rectángulo_1299-2" data-name="Rectángulo 1299" transform="translate(2.66 7.563) rotate(-21)" fill="#e9e5ff" stroke="#6a58db" stroke-width="1">
+                    <rect width="11.302" height="4.654" rx="2.327" stroke="none"/>
+                    <rect x="0.5" y="0.5" width="10.302" height="3.654" rx="1.827" fill="none"/>
+                  </g>
+                  <g id="Rectángulo_1300-2" data-name="Rectángulo 1300" transform="translate(2.659 3.574) rotate(-21)" fill="#e9e5ff" stroke="#6a58db" stroke-width="1">
+                    <rect width="9.973" height="4.654" rx="2.327" stroke="none"/>
+                    <rect x="0.5" y="0.5" width="8.973" height="3.654" rx="1.827" fill="none"/>
+                  </g>
+                  <g id="Rectángulo_1301-2" data-name="Rectángulo 1301" transform="translate(0 12.882) rotate(-21)" fill="#e9e5ff" stroke="#6a58db" stroke-width="1">
+                    <rect width="13.297" height="4.654" rx="2.327" stroke="none"/>
+                    <rect x="0.5" y="0.5" width="12.297" height="3.654" rx="1.827" fill="none"/>
+                  </g>
+                </g>
+              </g>
+              <ellipse id="Elipse_299" data-name="Elipse 299" cx="8" cy="12" rx="8" ry="12" transform="translate(310.1 294.585) rotate(-41)" fill="#685ea0" opacity="0.326"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
